@@ -7,7 +7,7 @@ Learning e aprendizado profundo podem identificar e prevenir ameaças digitais.
 📒 DESCRIÇÃO
 Este vídeo de 02:50 aborda a integração de Inteligência Artificial e algoritmos avançados na segurança digital, destacando como eles proporcionam uma defesa mais eficaz contra ciberataques.
 
-🤖 Tecnologias Utilizadas
+🤖 TECNOLOGIAS UTILIZADAS
 
 IA Generativa ChatGPT : uso de prompts para criar foto do Avatar e fazer roteiro do vídeo.
 
@@ -43,7 +43,7 @@ No entanto, mesmo com essas limitações, é possível explorar e aprender basta
 
 
 
-###💭 Reflexão
+###💭 REFLEXÃO
 
 
 O uso de diferentes ferramentas de IA para criar um vídeo demonstra a versatilidade dessas tecnologias e a possibilidade de integrá-las de forma criativa. Cada etapa do processo, desde a concepção do roteiro até a edição final, oferece uma oportunidade única de aprendizado e exploração.
