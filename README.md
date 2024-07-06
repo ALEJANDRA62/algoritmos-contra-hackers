@@ -33,7 +33,8 @@ Apliquei uma voz sintetizada ao roteiro usando um software de edição de vídeo
 Com um editor de vídeo combinei imagem do avatar e áudio.
 Usei uma ferramenta de IA generativa de sincronização labial para fazer o avatar falante. 
 
-🚀 Resultados
+🚀 RESULTADOS
+
 Observação: Aplicativos de IA generativa oferecem funcionalidades avançadas em seus planos pagos, o que pode limitar a experiência para usuários que optam pela versão gratuita como neste caso. Por isso, a sincronização labial não se vê tão profissional assim.
 No entanto, mesmo com essas limitações, é possível explorar e aprender bastante sobre as capacidades dessas ferramentas.
 
