@@ -6,7 +6,7 @@ Her pose is relaxed, suggesting she is comfortable in front of the lens. The bac
 which provides a stark contrast to her attire and creates a simple yet striking portrait.
 
 
-Prompt para roteiro
+Prompt para gerar roteiro
 
 Crie um roteiro para um vídeo educativo onde um avatar de IA fala sobre a nova era da segurança digital, 
 destacando o papel dos algoritmos avançados e da inteligência artificial na defesa contra hackers e ciberataques. 
