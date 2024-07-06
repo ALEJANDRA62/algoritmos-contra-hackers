@@ -52,7 +52,6 @@ No entanto, mesmo com essas limitações, é possível explorar e aprender basta
 O uso de diferentes ferramentas de IA para criar um vídeo demonstra a versatilidade dessas tecnologias e a possibilidade de integrá-las de forma criativa. Cada etapa do processo, desde a concepção do roteiro até a edição final, oferece uma oportunidade única de aprendizado e exploração.
 
 
-Baixar Arquivo de Áudio
 
 
 
