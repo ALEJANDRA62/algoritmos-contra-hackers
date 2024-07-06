@@ -1,5 +1,7 @@
 # ALGORITMOS CONTRA HACKERS
-##A Nova Era da Segurança Digital 
+
+
+##
 Utilizando um avatar virtual criado por IA, o projeto apresenta um vídeo que explica como algoritmos de machine learning podem identificar e prevenir ameaças digitais.
 
 ##🧐 Processo de Criação
