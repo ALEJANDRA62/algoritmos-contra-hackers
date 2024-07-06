@@ -1,4 +1,3 @@
-
 Prompt para criar Avatar
 
 The image features a smiling woman with gray hair and glasses, wearing a dark-colored top. 
@@ -9,5 +8,9 @@ which provides a stark contrast to her attire and creates a simple yet striking 
 
 Prompt para roteiro
 
-
-Crie um roteiro para um vídeo educativo onde um avatar de IA fala sobre a nova era da segurança digital, destacando o papel dos algoritmos avançados e da inteligência artificial na defesa contra hackers e ciberataques. Explica como a integração de algoritmos avançados e IA na segurança digital marca uma era de defesa mais dinâmica e eficiente contra ciberataques e hackers.O roteiro deve incluir uma introdução pelo avatar, uma explicação de como os algoritmos de machine learning são usados para identificar e prevenir ameaças, e dicas de segurança sobre o que não fazer para evitar ser hackeado, como usar senhas fracas ou reutilizar senhas.
+Crie um roteiro para um vídeo educativo onde um avatar de IA fala sobre a nova era da segurança digital, 
+destacando o papel dos algoritmos avançados e da inteligência artificial na defesa contra hackers e ciberataques. 
+Explica como a integração de algoritmos avançados e IA na segurança digital marca uma era de defesa mais dinâmica 
+e eficiente contra ciberataques e hackers.O roteiro deve incluir uma introdução pelo avatar, uma explicação de como 
+os algoritmos de machine learning são usados para identificar e prevenir ameaças, e dicas de segurança sobre o que 
+não fazer para evitar ser hackeado, como usar senhas fracas ou reutilizar senhas.
