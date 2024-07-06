@@ -4,7 +4,10 @@
 ##
 Utilizando um avatar virtual criado por IA, o projeto apresenta um vídeo que explica como algoritmos de machine learning podem identificar e prevenir ameaças digitais.
 
-##🧐 Processo de Criação
+
+#🧐 PROCESSO DE CRIAÇÃO
+
+
 Utilizei uma ferramenta de IA conversacional para desenvolver um prompt detalhado que descreva o Avatar e o roteiro do vídeo. Com base no prompt, usei uma ferramenta de IA generativa de imagens para criar a foto do avatar. 
 Apliquei uma voz sintetizada ao roteiro usando um software de edição de vídeo. 
 Com um editor de vídeo combinei imagem do avatar e áudio.
