@@ -36,8 +36,7 @@ Com um editor de vídeo combinei imagem do avatar e áudio.
 Usei uma ferramenta de IA generativa de sincronização labial para fazer o avatar falante. 
 
 
-!audioROTEIRO
-LINK_DO_ARQUIVO_DE_ÁUDIO_RAW
+
 
 
 🚀 RESULTADOS
