@@ -5,6 +5,11 @@
 Utilizando um avatar virtual criado por IA, o projeto apresenta um vídeo que explica como algoritmos de machine learning podem identificar e prevenir ameaças digitais.
 
 
+📒 DESCRIÇÃO
+Este vídeo de  02:50  aborda a integração de Inteligência Artificial e algoritmos avançados na segurança digital, destacando como eles proporcionam uma defesa mais eficaz contra ciberataques.
+
+
+
 #🧐 PROCESSO DE CRIAÇÃO
 
 
