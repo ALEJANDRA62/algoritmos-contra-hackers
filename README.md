@@ -2,18 +2,27 @@
 
 Utilizando um avatar virtual criado por IA, o projeto apresenta um vídeo que explica como algoritmos de machine learning podem identificar e prevenir ameaças digitais.
 
+
 📒 DESCRIÇÃO
 Este vídeo de  02:50  aborda a integração de Inteligência Artificial e algoritmos avançados na segurança digital, destacando como eles proporcionam uma defesa mais eficaz contra ciberataques.
 
 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT : uso de prompts para criar foto do Avatar e fazer roteiro do vídeo.
+
 https://chatgpt.com/
+
 IA Generativa DALL-E3 : para criação de imagem a partir de descrição textual.
+
 https://www.popai.pro/creation/All/Image
+
 IA Generativa VIDNOZ AI : para Sincronização de Lábios com Inteligência Artificial.
+
 https://es.vidnoz.com/
+
 CapCut : para edição de vídeo.
+
 https://www.capcut.com/
+
 
 
 
