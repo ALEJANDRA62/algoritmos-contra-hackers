@@ -1,20 +1,15 @@
+
 # ALGORITMOS CONTRA HACKERS
+## A Nova Era da Segurança Digital
+
+### 📒 DESCRIÇÃO
 
 Utilizando um avatar virtual criado por IA, o projeto apresenta um vídeo que explica como algoritmos de Machine 
 Learning e aprendizado profundo podem identificar e prevenir ameaças digitais.
 
 
 
-
-📒 DESCRIÇÃO
-
-
-Este vídeo aborda a integração de Inteligência Artificial e algoritmos avançados na segurança digital, destacando como eles proporcionam uma defesa mais eficaz contra ciberataques.
-
-
-
-🤖 TECNOLOGIAS UTILIZADAS
-
+### 🤖 TECNOLOGIAS UTILIZADAS
 
 
 IA Generativa ChatGPT : uso de prompts para criar foto do Avatar e fazer roteiro do vídeo.
@@ -30,11 +25,7 @@ CLIPCHAMP : para edição de vídeo.
 https://app.clipchamp.com/
 
 
-
-
-
-
-🧐 PROCESSO DE CRIAÇÃO
+### 🧐 PROCESSO DE CRIAÇÃO
 
 
 
@@ -44,8 +35,7 @@ Apliquei uma voz sintetizada ao roteiro.
 Com um editor de vídeo combinei imagens e áudio.
 
 
-
-🚀 RESULTADOS
+### 🚀 RESULTADOS
 
 
 Observação: Aplicativos de IA generativa oferecem funcionalidades avançadas em seus planos pagos, o que pode limitar a experiência 
@@ -54,15 +44,14 @@ No entanto, mesmo com essas limitações, é possível explorar e aprender basta
 
 
 
-💭 REFLEXÃO
+### 💭 REFLEXÃO
 
 
 O uso de diferentes ferramentas de IA para criar um vídeo demonstra a versatilidade dessas tecnologias e a possibilidade de integrá-las de forma criativa. 
 Cada etapa do processo, desde a concepção do roteiro até a edição final, oferece uma oportunidade única de aprendizado e exploração.
 
 
-
-🎥 VEJA O VÍDEO AQUI NO YOUTUBE
+### 🎥 VEJA O VÍDEO NO YOUTUBE
 
 
 https://youtu.be/8WZ2OiFk8iM?si=dLIBjRyHG6dFP4E3
