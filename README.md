@@ -61,7 +61,8 @@ O uso de diferentes ferramentas de IA para criar um vídeo demonstra a versatili
 Cada etapa do processo, desde a concepção do roteiro até a edição final, oferece uma oportunidade única de aprendizado e exploração.
 
 
-VEJA O VÍDEO AQUI NO YOUTUBE
+
+🎥 VEJA O VÍDEO AQUI NO YOUTUBE
 
 
 https://youtu.be/8WZ2OiFk8iM?si=dLIBjRyHG6dFP4E3
