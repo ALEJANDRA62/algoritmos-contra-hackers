@@ -38,7 +38,7 @@ Com um editor de vídeo combinei imagem do avatar e áudio.
 
 🚀 RESULTADOS
 
-Observação: Aplicativos de IA generativa oferecem funcionalidades avançadas em seus planos pagos, o que pode limitar a experiência para usuários que optam pela versão gratuita como neste caso. Por isso, a sincronização labial não se vê tão profissional assim.
+Observação: Aplicativos de IA generativa oferecem funcionalidades avançadas em seus planos pagos, o que pode limitar a experiência para usuários que optam pela versão gratuita como neste caso. 
 No entanto, mesmo com essas limitações, é possível explorar e aprender bastante sobre as capacidades dessas ferramentas.
 
 
