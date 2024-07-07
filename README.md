@@ -5,7 +5,7 @@ Learning e aprendizado profundo podem identificar e prevenir ameaças digitais.
 
 
 📒 DESCRIÇÃO
-Este vídeo de 02:50 aborda a integração de Inteligência Artificial e algoritmos avançados na segurança digital, destacando como eles proporcionam uma defesa mais eficaz contra ciberataques.
+Este vídeo aborda a integração de Inteligência Artificial e algoritmos avançados na segurança digital, destacando como eles proporcionam uma defesa mais eficaz contra ciberataques.
 
 🤖 TECNOLOGIAS UTILIZADAS
 
@@ -13,18 +13,13 @@ IA Generativa ChatGPT : uso de prompts para criar foto do Avatar e fazer roteiro
 
 https://chatgpt.com/
 
-IA Generativa DALL-E3 : para criação de imagem a partir de descrição textual.
+IA Generativa LUMALAB : para criação de imagem a partir de descrição textual.
 
-https://www.popai.pro/creation/All/Image
+https://lumalabs.ai
 
-IA Generativa VIDNOZ AI : para Sincronização de Lábios com Inteligência Artificial.
+CLIPCHAMP : para edição de vídeo.
 
-https://es.vidnoz.com/
-
-CapCut : para edição de vídeo.
-
-https://www.capcut.com/
-
+https://app.clipchamp.com/
 
 
 
