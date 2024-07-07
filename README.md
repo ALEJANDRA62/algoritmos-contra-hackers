@@ -39,8 +39,9 @@ Com um editor de vídeo combinei imagens e áudio.
 
 
 Observação: Aplicativos de IA generativa oferecem funcionalidades avançadas em seus planos pagos, o que pode limitar a experiência 
-para usuários que optam pela versão gratuita como neste caso. 
-No entanto, mesmo com essas limitações, é possível explorar e aprender bastante sobre as capacidades dessas ferramentas.
+para usuários que optam pela versão gratuita como neste caso. Consequentemente, a presença de marcas d’água em vídeos editados 
+na versão gratuita é uma prática comum, refletindo as restrições do plano não pago. No entanto, mesmo com essas limitações, é possível 
+explorar e aprender bastante sobre as capacidades dessas ferramentas.
 
 
 
