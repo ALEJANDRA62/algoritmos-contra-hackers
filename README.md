@@ -31,9 +31,6 @@ https://app.clipchamp.com/
 Utilizei uma ferramenta de IA conversacional para desenvolver um prompt detalhado que descreva o Avatar e o roteiro do vídeo. Com base no prompt, usei uma ferramenta de IA generativa de imagens para criar a foto do avatar. 
 Apliquei uma voz sintetizada ao roteiro usando um software de edição de vídeo. 
 Com um editor de vídeo combinei imagem do avatar e áudio.
-Usei uma ferramenta de IA generativa de sincronização labial para fazer o avatar falante. 
-
-
 
 
 
