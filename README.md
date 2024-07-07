@@ -5,9 +5,11 @@ Learning e aprendizado profundo podem identificar e prevenir ameaças digitais.
 
 
 📒 DESCRIÇÃO
+
 Este vídeo aborda a integração de Inteligência Artificial e algoritmos avançados na segurança digital, destacando como eles proporcionam uma defesa mais eficaz contra ciberataques.
 
 🤖 TECNOLOGIAS UTILIZADAS
+
 
 IA Generativa ChatGPT : uso de prompts para criar foto do Avatar e fazer roteiro do vídeo.
 
@@ -24,6 +26,7 @@ https://app.clipchamp.com/
 
 
 🧐 PROCESSO DE CRIAÇÃO
+
 
 Utilizei uma ferramenta de IA conversacional para desenvolver um prompt detalhado que descreva o Avatar e o roteiro do vídeo. Com base no prompt, usei uma ferramenta de IA generativa de imagens para criar a foto do avatar. 
 Apliquei uma voz sintetizada ao roteiro usando um software de edição de vídeo. 
