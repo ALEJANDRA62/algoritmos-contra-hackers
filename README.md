@@ -12,11 +12,13 @@ Learning e aprendizado profundo podem identificar e prevenir ameaças digitais.
 ### 🤖 TECNOLOGIAS UTILIZADAS
 
 
-IA Generativa ChatGPT : uso de prompts para criar foto do Avatar e fazer roteiro do vídeo.
+IA Generativa: uso de prompts para criar foto do Avatar e fazer roteiro do vídeo.
 
-https://chatgpt.com/
+CHATGPT : https://chatgpt.com/
+
 
 IA Generativa para criação de imagem a partir de descrição textual.
+
 
 LUMALABS : https://lumalabs.ai
 
@@ -26,9 +28,9 @@ ARTGURU : https://www.artguru.ai/
 PIXVERSE : https://pixverse.ai/
 
 
-CLIPCHAMP : para edição de vídeo.
+IA Generativa para edição de vídeo.
 
-https://app.clipchamp.com/
+CLIPCHAMP : https://app.clipchamp.com/
 
 
 ### 🧐 PROCESSO DE CRIAÇÃO
