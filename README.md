@@ -16,9 +16,15 @@ IA Generativa ChatGPT : uso de prompts para criar foto do Avatar e fazer roteiro
 
 https://chatgpt.com/
 
-IA Generativa LUMALAB : para criação de imagem a partir de descrição textual.
+IA Generativa para criação de imagem a partir de descrição textual.
 
-https://lumalabs.ai
+LUMALABS : https://lumalabs.ai
+
+
+ARTGURU : https://www.artguru.ai/
+
+PIXVERSE : https://pixverse.ai/
+
 
 CLIPCHAMP : para edição de vídeo.
 
